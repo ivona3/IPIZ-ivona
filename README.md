@@ -1,1 +1,24 @@
-# IPIZ-ivona
+# Library Carpentry
+Library Carpentry razvija lekcije i radionice za osobe koje se bave knjižničnim i informacijskim poslovima. Osnovni cilj je osigurati osnaživanje zajednice u području korištenja softvera, rada s podacima te osposobljavanje ostalih za učinkovito i djelotvorno korištenje njima. Radionice koje provodi sastoje se od lekcija koje predvode instruktori. Library Carpentry stvoren je kako bi pomogao svim onima koji rade u području knjižničarstva u učinkovitijem usvajanju vještina te prenošenju stečenog znanja na ostale kolege, studente ili istraživače. Obuka se odvija u radionicama lice u lice i materijali su dostupni online za samostalno istraživanje ili ponovnu uporabu.
+
+## Research libraries  
+Research libraries  provodi koncepte pod nazivom FAIR principales što u prijevodu znači dostupno, pristupačno, interoperabilno i ponovno upotrebljivo za osoblje koje se bavi istraživanjem npr. knjižničari. Namjenjen je svima onima koji žele doprinjeti istraživanju kao i onima koji žele više naučiti o FAIR-u i njegovoj primjeni na knjižnice. Osnovni ciljevi su prevođenje FAIR-a na jezik prilagođen knjižnici kako bi se utvrdilo što je sve potrebno znati o njemu.  Također cilj je i pronalazak načina kako ga unaprijediti u knjižnici te uvidjeti korisnost FAIR-a kako bi što bolje upravljali vlastitim resusrsima. Knjižnice imaju jaku tradiciju u opisivanju resursa, pružanju pristupa i prikupljanju zbirki te pružanju podrške za dugoročno upravljanje digitalnim resursima. 
+
+## Research Data Management Support
+Ova lekcija ima za cilj pomoći istraživačima koji su voljni podijeliti svoje podatke. Jedno od područja kojim se bave su metapodaci. Način na koji su metapodaci povezani s knjižnicama ponajprije se uvidio u katalogu. Knjižnični katalog sadrži informacije o određenoj knjizi u knjižnici, kao što su autor, naslov, predmet itd. Knjižnična katalogizacija, kao oblik metapodataka, pomaže ljudima da pronađu knjige u knjižnici. Knjižničari podržavaju istraživače koji žele podijeliti svoje podatke te se prvenstveno cilja na istraživače i osobe bez obzira na njihovo iskustvo: oni koji imaju ograničeno tehničko znanje i žele postići vrlo opće razumijevanje principa FAIR-a i onih koji su tehnički napredniji i žele iskoristiti više tehničkih resursa. 
+
+ # Data Carpentry
+Data Carpentry  je organizacija koja se bavi područjem informacija i svoje radionice temelji na vještinama upotrebe podataka prilikom provođenja istraživanja. Ova organizacija ponajprije nastoji omogućiti istraživačima kvalitetnu obuku koja se temelji na podacima. Data carpentry je projekt u sklopu The carpentries čiji je cilj nadograđivati prethodno stečena znanja polaznika kroz vlastita istraživanja  kako bi mogli ta znanja i ubuduće primjeniti. Polja koja projekt pokriva su ekologija, društvene znanosti, računalni programi te genomika.
+
+## Social Science
+Unutar lekcija društvenih znanosti spada organiziranje podataka u proračunskim tablicama, čišćenje podataka pomoću OpenRefine-a. OpenRefine je besplatni alat otvorenog koda za rad s podacima kojima je potrebno čišćenje ili pretvorba iz jednog u drugi format. Ovaj dio spada u prirpremu podataka za analizu gdje se uviđaju greške u podacima te se radi njhova ispravka. Ova lekcija korisna je za učenje o učinkovitom čišćenju i formatiranju podataka, omogućuje automatsko praćenje svih nastalih promjena  te uvelike pridonosi na način da štedi vrijeme koje bi se izgubilo na ručna uređivanja.
+
+## Data Analysis and Visualization with Python for Social Scientists *alpha*
+Ova lekcija predstavlja uvod u Python i namjenjena je sudionicima koji nemaju iskustvo u programiranju. Sastoji se od uvoda u Python, njegovih osnovnih značajki te opisa korištenja Pythonom npr. Kako dodijeliti vrijednosti varijablama, kako ponoviti istu radnju više puta, kako automatizirati svoj kod za ponovnu upotrebu i slično. Ova lekcija namjenjena je svim početnicima te im detaljno opisuje korake koje je potrebno napraviti da bi se naučili koristiti njime.
+
+# Software carpentry
+Podučava istraživače raznim računalnim vještinama koje su namijenjene razvoju stečenih vještina kao i razvoju novih. Instruktori zaduženi za radionice su volonteri. Radionice traju dva dana i uključuju poznavanje rada na Unix Shellu, programiranje pomoću GAP-a i MATLAB-a kao i korištenje Git-a i Pythona. Pokrivaju  osnovne vještine potrebne za rad u istraživačkom timu, sadrže teorijski dio vježbe te se na kraju radionice polaznicima ponudi upitnik kako bi se dobila povratna informacija.
+
+## Unix Shell
+Unix Shell ima dug životni vijek. Predstavlja električki alat koji ljudima omogućuje da rade složene poslove uz samo nekoliko pristisaka na tipke te da kombiniraju postojeće programe na nove načine i automatiziraju zadatke koji se ponavljaju bez ponovnog upisivanja istih stvari iznova. Ova lekcija vodi kroz osnove Unix-a poput kretanja po datotekama, kako se mogu vidjeti koje datoteke korisnik posjeduje, kako im može odrediti lokaciju na računalu, kako stvarati i brisati datoteke ili kombinirati postojeće naredbe za nove stvari i slično.
+
